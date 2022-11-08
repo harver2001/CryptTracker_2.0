@@ -150,8 +150,8 @@ const CoinsTable = () => {
                         </TableCell>
                         </Link>
                         <TableCell>
-                        <h2>{symbol}{" "}
-                          {numberWithCommas(row.current_price.toFixed(2))}</h2>
+                        {symbol}{" "}
+                          {numberWithCommas(row.current_price.toFixed(2))}
                         </TableCell>
                         <TableCell align="right" style={{color: profit>0 ? "rgb(14,203,129)" : "red"}}>
                               {profit && "+"}

@@ -9,7 +9,7 @@ In the project, you can:
 ### 2)  Search for any CryptoCurrency
 
 ![2](https://user-images.githubusercontent.com/111651944/204080859-6eaaed1c-0951-40f0-916e-dde416a2a5a7.png)
-Filters all the Cryptos with search Keyword.
+Filters all the Cryptos with Searched Keyword.
 
 ### 3)  Get Every Detail about a CryptoCurrency
 

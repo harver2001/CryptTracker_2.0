@@ -20,13 +20,13 @@ Know everything about the Crypto like its Current Price, Evaluation and Track al
 
 Use of ChartJS to Plot all the Data in form of Chart.
 
-### 4) Switch between INR to DLR
+### 4) Switch between INR to USD
 
 ![3](https://user-images.githubusercontent.com/111651944/204080888-d5732d74-4b02-42dd-9fe3-1e34180a22e5.png)
 
-**INR - Indian Rupee | DLR - American Dollar
+**INR - Indian Rupee | USD - American Dollar
 
-Change Every Price and Stats as per the chosen Currency.
+Change Every Price and Stats as per the Chosen Currency.
 
 ### 5)  Multiple Pages containing all the Cryptos...
 

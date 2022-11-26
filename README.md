@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+## CryptoTracker_2.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project, you can:
 
-## Available Scripts
+### 1)  Check out all the CryptoCurrencies
 
-In the project directory, you can run:
+![1](https://user-images.githubusercontent.com/111651944/204080813-aa299148-d5d5-4d70-afd4-64cf2fd7ed4b.png)
 
-### `npm start`
+### 2)  Search for any CryptoCurrency
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![2](https://user-images.githubusercontent.com/111651944/204080859-6eaaed1c-0951-40f0-916e-dde416a2a5a7.png)
+Filters all the Cryptos with search Keyword.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 3)  Get Every Detail about a CryptoCurrency
 
-### `npm test`
+![3](https://user-images.githubusercontent.com/111651944/204080975-ab84b995-a84c-4358-913f-1bf99372fd22.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Know everything about the Crypto like its Current Price, Evaluation and Track all the Daily, Monthly, Quarterly, Yearly Changes with a Chart.
 
-### `npm run build`
+Use of ChartJS to Plot all the Data in form of Chart.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 4) Switch between INR to DLR
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![3](https://user-images.githubusercontent.com/111651944/204080888-d5732d74-4b02-42dd-9fe3-1e34180a22e5.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**INR - Indian Rupee | DLR - American Dollar
 
-### `npm run eject`
+Change Every Price and Stats as per the chosen Currency.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 5)  Multiple Pages containing all the Cryptos...
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot (56)](https://user-images.githubusercontent.com/111651944/204081168-09c027d0-016a-495c-81c6-d9605a017288.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Use of Pagination Component of React.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

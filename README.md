@@ -11,6 +11,7 @@ In the project, you can:
 ![2](https://user-images.githubusercontent.com/111651944/204080859-6eaaed1c-0951-40f0-916e-dde416a2a5a7.png)
 
 Filters all the Cryptos with Searched Keyword.
+Search is Case Sensitive (LowerCase).
 
 ### 3)  Get Every Detail about a CryptoCurrency
 
